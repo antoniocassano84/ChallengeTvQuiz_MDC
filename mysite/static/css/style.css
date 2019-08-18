@@ -1,0 +1,10 @@
+// All the links inside an element of a list are blue
+// with font size 20px
+li a {
+    font-size: 20px;
+    color: blue;
+}
+
+p {
+    color:green;
+}
